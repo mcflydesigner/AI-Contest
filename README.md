@@ -31,5 +31,5 @@ The program supports the following **arguments** which **are optional**
 
 Example of the command to run the program with optional parameters:
 ```
-python main.py PATH_TO_INPUT_IMG -p 10000 -s 500000 -m 10000 -o output.jpg
+python main.py ./images/input_1.jpg -p 50 -s 500000 -m 1000 -o output.jpg
 ```
