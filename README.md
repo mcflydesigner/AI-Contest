@@ -24,10 +24,10 @@ instead of PATH_TO_INPUT_IMG provide a relative path to your input picture.
 
 ### 4.1 Running the program with specified parameters
 The program supports the following **arguments** which **are optional**
-`[-p] NUMBER` - size of the population(must be a positive number which is greater or equal to 4, default=10)
-`[-s] NUMBER` - stopping criteria(must be a positive number, default=5000000)
-`[-m] NUMBER` - maximum number of iterations(must be a positive number, default=10000)
-`[-o] NUMBER` - output filename(must be a string, default=`timestamp.now()`)
+-`[-p] NUMBER` - size of the population(must be a positive number which is greater or equal to 4, default=10)
+-`[-s] NUMBER` - stopping criteria(must be a positive number, default=5000000)
+-`[-m] NUMBER` - maximum number of iterations(must be a positive number, default=10000)
+-`[-o] NUMBER` - output filename(must be a string, default=`timestamp.now()`)
 
 Example of the command to run the program with optional parameters:
 ```
