@@ -1,0 +1,6 @@
+linecache2==1.0.0
+numpy==1.20.2
+opencv-python==4.5.1.48
+six==1.15.0
+traceback2==1.4.0
+unittest2==1.1.0

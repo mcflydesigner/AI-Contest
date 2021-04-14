@@ -33,3 +33,9 @@ Example of the command to run the program with optional parameters:
 ```
 python main.py ./images/input_1.jpg -p 50 -s 500000 -m 1000 -o output.jpg
 ```
+
+### 4.2 Running unit tests
+In your terminal run the following command:
+```
+python unittests.py
+```
